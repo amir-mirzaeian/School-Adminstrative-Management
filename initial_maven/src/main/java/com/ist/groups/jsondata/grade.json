@@ -1,0 +1,77 @@
+{
+  "gradeSampleArrayList": [
+    {
+      "level": 1,
+      "subjects": [
+        {
+          "name": "Math",
+          "isCommon": true
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "subjects": [
+        {
+          "name": "Math",
+          "isCommon": true
+        },
+        {
+          "name": "Chemistry",
+          "isCommon": true
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "subjects": [
+        {
+          "name": "Math",
+          "isCommon": true
+        },
+        {
+          "name": "Chemistry",
+          "isCommon": true
+        },
+        {
+          "name": "Physics",
+          "isCommon": true
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "subjects": [
+        {
+          "name": "Math",
+          "isCommon": true
+        },
+        {
+          "name": "Chemistry",
+          "isCommon": true
+        },
+        {
+          "name": "Physics",
+          "isCommon": true
+        }
+      ]
+    },
+    {
+      "level": 5,
+      "subjects": [
+        {
+          "name": "Math",
+          "isCommon": true
+        },
+        {
+          "name": "Physics",
+          "isCommon": true
+        },
+        {
+          "name": "Biology",
+          "isCommon" : true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "classSampleArrayList": [
+    {
+      "name": "ClassA",
+      "grades": [
+        1
+      ]
+    },
+    {
+      "name": "ClassB",
+      "grades": [
+        2
+      ]
+    },
+    {
+      "name": "ClassC",
+      "grades": [
+        3
+      ]
+    },
+    {
+      "name": "ClassD",
+      "grades": [
+        3,
+        4
+      ]
+    },
+    {
+      "name": "ClassE",
+      "grades": [
+        5
+      ]
+    },
+    {
+      "name": "ClassF",
+      "grades": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "name": "ClassG",
+      "grades": [
+        4
+      ]
+    },
+    {
+      "name": "ClassH",
+      "grades": [
+        4,
+        5
+      ]
+    }
+  ]
+}

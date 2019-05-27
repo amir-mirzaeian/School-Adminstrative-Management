@@ -1,0 +1,456 @@
+{
+  "studentSampleArrayList": [
+    {
+      "name": "Amir",
+      "lastName": "Mirzaeian",
+      "grade": 3
+    },
+    {
+      "name": "Jack",
+      "lastName": "Peterson",
+      "grade": 2,
+      "subjects": [
+        {
+          "name": "PE",
+          "isCommon": false
+        }
+      ]
+    },
+    {
+      "name": "Leila",
+      "lastName": "Ekramzadeh",
+      "grade": 3
+    },
+    {
+      "name": "Ali",
+      "lastName": "Soltani",
+      "grade": 3,
+      "subjects": [
+        {
+          "name": "Swimming",
+          "isCommon": false
+        }
+      ]
+    },
+    {
+      "name": "Halo",
+      "lastName": "Mei",
+      "grade": 5,
+      "subjects": [
+        {
+          "name": "PE",
+          "isCommon": false
+        },
+        {
+          "name": "Language",
+          "isCommon": false
+        },
+        {
+          "name": "Swimming",
+          "isCommon": false
+        }
+      ]
+    },
+    {
+      "name": "Salim",
+      "lastName": "Nosraty",
+      "grade": 5,
+      "subjects": [
+        {
+          "name": "German",
+          "isCommon": false
+        }
+      ]
+    },
+    {
+      "name": "Christiano",
+      "lastName": "Ronaldo",
+      "grade": 2,
+      "subjects": [
+        {
+          "name": "German",
+          "isCommon":false
+        },
+        {
+          "name": "Cooking",
+          "isCommon": false
+        },
+        {
+          "name": "Swedish",
+          "isCommon": false
+        }
+      ]
+    },
+    {
+      "name": "Lionel",
+      "lastName": "Messi",
+      "grade": 4,
+      "subjects": [
+        {
+          "name": "Cooking",
+          "isCommon": false
+        }
+      ]
+    },
+    {
+      "name": "Hatef",
+      "lastName": "Alimardani",
+      "grade": 1,
+      "subjects": [
+        {
+          "name": "German",
+          "isCommon": false
+        }
+      ]
+    },
+    {
+      "name": "Mojta",
+      "lastName": "Salli",
+      "grade": 1,
+      "subjects": [
+        {
+          "name": "Swedish",
+          "isCommon": false
+        }
+      ]
+    },
+    {
+      "name": "Sam",
+      "lastName": "Peterson",
+      "grade": 1,
+      "subjects": [
+        {
+          "name": "PE",
+          "isCommon": false
+        }
+      ]
+    },
+    {
+      "name": "Jenifer",
+      "lastName": "Anderson",
+      "grade": 2,
+      "subjects": [
+        {
+          "name": "Swimming",
+          "isCommon": false
+        }
+      ]
+    },
+    {
+      "name": "Sas",
+      "lastName": "Sily",
+      "grade": 2,
+      "subjects": [
+        {
+          "name": "Music",
+          "isCommon": false
+        },
+        {
+          "name": "PE",
+          "isCommon": false
+        },
+        {
+          "name": "Cooking",
+          "isCommon": false
+        }
+      ]
+    },
+    {
+      "name": "Mein",
+      "lastName": "Sily",
+      "grade": 1,
+      "subjects": [
+        {
+          "name": "PE",
+          "isCommon": false
+        }
+      ]
+    },
+    {
+      "name": "Saba",
+      "lastName": "Mohamad",
+      "grade": 4,
+      "subjects": [
+        {
+          "name": "German",
+          "isCommon": false
+        },
+        {
+          "name": "Swedish",
+          "isCommon": false
+        }
+      ]
+    },
+    {
+      "name": "Pink",
+      "lastName": "Choon",
+      "grade": 3,
+      "subjects": [
+        {
+          "name": "Dancing",
+          "isCommon": false
+        },
+        {
+          "name": "German",
+          "isCommon": false
+        }
+      ]
+    },
+    {
+      "name": "Nobel",
+      "lastName": "Nari",
+      "grade": 4,
+      "subjects": [
+        {
+          "name": "PE",
+          "isCommon": false
+        },
+        {
+          "name": "Dancing",
+          "isCommon": false
+        }
+      ]
+    },
+    {
+      "name": "Shima",
+      "lastName": "Madani",
+      "grade": 3,
+      "subjects": [
+        {
+          "name": "PE",
+          "isCommon": false
+        },
+        {
+          "name": "Language",
+          "isCommon": false
+        }
+      ]
+    },
+    {
+      "name": "Kashef",
+      "lastName": "Tayran",
+      "grade": 5,
+      "subjects": [
+        {
+          "name": "Swedish",
+          "isCommon": false
+        },
+        {
+          "name": "Language",
+          "isCommon": false
+        },
+        {
+          "name": "German",
+          "isCommon": false
+        }
+      ]
+    },
+    {
+      "name": "Sis",
+      "lastName": "Li",
+      "grade": 1,
+      "subjects": [
+        {
+          "name": "Dancing",
+          "isCommon": false
+        },
+        {
+          "name": "PE",
+          "isCommon": false
+        },
+        {
+          "name": "Cooking",
+          "isCommon": false
+        }
+      ]
+    },
+    {
+      "name": "Meydi",
+      "lastName": "Na",
+      "grade": 2,
+      "subjects": [
+        {
+          "name": "Music",
+          "isCommon": false
+        }
+      ]
+    },
+    {
+      "name": "Mehdi",
+      "lastName": "Neeimi",
+      "grade": 4,
+      "subjects": [
+        {
+          "name": "Music",
+          "isCommon": false
+        }
+      ]
+    },
+    {
+      "name": "Ali",
+      "lastName": "Mohammad",
+      "grade": 5,
+      "subjects": [
+        {
+          "name": "PE",
+          "isCommon": true
+        }
+      ]
+    },
+    {
+      "name": "Saad",
+      "lastName": "Jaber",
+      "grade": 2,
+      "subjects": [
+        {
+          "name": "Music",
+          "isCommon": false
+        }
+      ]
+    },
+    {
+      "name": "Soltan",
+      "lastName": "Shah",
+      "grade": 3,
+      "subjects": [
+        {
+          "name": "Music",
+          "isCommon": false
+        },
+        {
+          "name": "PE",
+          "isCommon": false
+        }
+      ]
+    },
+    {
+      "name": "sima",
+      "lastName": "Baryan",
+      "grade": 1,
+      "subjects": [
+        {
+          "name": "Cooking",
+          "isCommon": false
+        },
+        {
+          "name": "Dancing",
+          "isCommon": false
+        }
+      ]
+    },
+    {
+      "name": "Shahrzad",
+      "lastName": "Kashef",
+      "grade": 5,
+      "subjects": [
+        {
+          "name": "Dancing",
+          "isCommon": false
+        }
+      ]
+    },
+    {
+      "name": "Narges",
+      "lastName": "Shahraki",
+      "grade": 4,
+      "subjects": [
+        {
+          "name": "Dancing",
+          "isCommon":false
+        },
+        {
+          "name": "PE",
+          "isCommon": false
+        },
+        {
+          "name": "Swedish",
+          "isCommon": false
+        },
+        {
+          "name": "Language",
+          "isCommon": false
+        },
+        {
+          "name": "German",
+          "isCommon" : false
+        }
+      ]
+    },
+    {
+      "name": "Mitra",
+      "lastName": "Narimani",
+      "grade": 3,
+      "subjects": [
+        {
+          "name": "German",
+          "isCommon": false
+        },
+        {
+          "name": "PE",
+          "isCommon": false
+        },
+        {
+          "name": "Music",
+          "isCommon": false
+        }
+      ]
+    },
+    {
+      "name": "Richard",
+      "lastName": "Welf",
+      "grade": 3,
+      "subjects": [
+        {
+          "name": "Music",
+          "isCommon": false
+        },
+        {
+          "name": "PE",
+          "isCommon": false
+        },
+        {
+          "name": "Language",
+          "isCommon": false
+        }
+      ]
+    },
+    {
+      "name": "Niki",
+      "lastName": "Karimi",
+      "grade": 3,
+      "subjects": [
+        {
+          "name": "Cooking",
+          "isCommon": false
+        },
+        {
+          "name": "PE",
+          "isCommon": false
+        },
+        {
+          "name": "German",
+          "isCommon": false
+        }
+      ]
+    },
+    {
+      "name": "Zartsht",
+      "lastName": "Mesvk",
+      "grade": 3,
+      "subjects": [
+        {
+          "name": "Music",
+          "isCommon": false
+        },
+        {
+          "name": "Dancing",
+          "isCommon": false
+        },
+        {
+          "name": "Cooking",
+          "isCommon": false
+        }
+      ]
+    }
+  ]
+}

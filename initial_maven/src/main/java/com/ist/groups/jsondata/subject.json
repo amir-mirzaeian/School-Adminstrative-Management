@@ -1,0 +1,56 @@
+{
+  "subjectSampleArrayList": [
+    {
+      "name": "math",
+      "isCommon" : true
+    },
+    {
+      "name": "chemistry",
+      "isCommon" : true
+    },
+    {
+      "name": "PE",
+      "isCommon" : false
+    },
+    {
+      "name": "language",
+      "isCommon" : false
+    },
+    {
+      "name": "physics",
+      "isCommon" : true
+    },
+    {
+      "name": "biology",
+      "isCommon" : true
+    },
+    {
+      "name": "Music",
+      "isCommon" : false
+    },
+    {
+      "name": "Swedish",
+      "isCommon" : false
+    },
+    {
+      "name": "German",
+      "isCommon" : false
+    },
+    {
+      "name": "Dancing",
+      "isCommon" : false
+    },
+    {
+      "name": "Swimming",
+      "isCommon" : false
+    },
+    {
+      "name": "Drawing",
+      "isCommon" : false
+    },
+    {
+      "name": "Cooking",
+      "isCommon" : false
+    }
+  ]
+}

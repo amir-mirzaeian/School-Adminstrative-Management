@@ -1,0 +1,69 @@
+{
+  "groupSampleArrayList": [
+    {
+      "subjects": [
+        {
+          "name": "Biology",
+          "isCommon": true
+        }
+      ],
+      "min": 3,
+      "max": 8
+    },
+    {
+      "subjects": [
+        {
+          "name": "Chemistry",
+          "isCommon": true
+        },
+        {
+          "name": "PE",
+          "isCommon" : false
+        }
+      ],
+      "min": 3,
+      "max": 8
+    },
+    {
+      "subjects": [
+        {
+          "name": "Chemistry",
+          "isCommon": true
+        },
+        {
+          "name": "Cooking",
+          "isCommon" : false
+        },
+        {
+          "name": "Language",
+          "isCommon" : false
+        },
+        {
+          "name": "German",
+          "isCommon" : false
+        }
+      ],
+      "min": 3,
+      "max": 8
+    },{
+      "subjects": [
+        {
+          "name": "Physics",
+          "isCommon": true
+        }
+      ],
+      "min": 3,
+      "max": 8
+    },
+    {
+      "subjects": [
+        {
+          "name": "Math",
+          "isCommon": true
+        }
+      ],
+      "min": 3,
+      "max": 8
+    }
+  ]
+}
